@@ -7,7 +7,7 @@ const Home = () => (
       <br className='max-md:hidden' />
       <span className='orange_gradient text-center'>
         {" "}
-        One-liner that will make you smile
+        One-liner that will give you smile and insight
       </span>
     </h1>
     <p className='desc text-center'>
