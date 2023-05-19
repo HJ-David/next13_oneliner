@@ -33,7 +33,7 @@ const Form = ({ type, post, setPost, submitting, handleSubmit }) => {
           <span className='font-satoshi font-semibold text-base text-gray-700'>
             Field of oneliner{" "}
             <span className='font-normal'>
-              (#product, #webdevelopment, #idea, etc.)
+              (#smile, #love, #witty, etc.)
             </span>
           </span>
           <input
